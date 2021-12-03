@@ -1,0 +1,2 @@
+﻿Using TypeScript 4.3 for IntelliSense.
+[ProjectHost] Successfully installed TypeScript typings @types/jquery@ts4.3,@types/bootstrap@ts4.3
